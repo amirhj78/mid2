@@ -1,0 +1,11 @@
+C:\Users\jalali\source\repos\PROJECT\PROJECT\bin\Debug\netcoreapp2.1\PROJECT.deps.json
+C:\Users\jalali\source\repos\PROJECT\PROJECT\bin\Debug\netcoreapp2.1\PROJECT.runtimeconfig.json
+C:\Users\jalali\source\repos\PROJECT\PROJECT\bin\Debug\netcoreapp2.1\PROJECT.runtimeconfig.dev.json
+C:\Users\jalali\source\repos\PROJECT\PROJECT\bin\Debug\netcoreapp2.1\PROJECT.dll
+C:\Users\jalali\source\repos\PROJECT\PROJECT\bin\Debug\netcoreapp2.1\PROJECT.pdb
+C:\Users\jalali\source\repos\PROJECT\PROJECT\obj\Debug\netcoreapp2.1\PROJECT.csprojAssemblyReference.cache
+C:\Users\jalali\source\repos\PROJECT\PROJECT\obj\Debug\netcoreapp2.1\PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\jalali\source\repos\PROJECT\PROJECT\obj\Debug\netcoreapp2.1\PROJECT.AssemblyInfoInputs.cache
+C:\Users\jalali\source\repos\PROJECT\PROJECT\obj\Debug\netcoreapp2.1\PROJECT.AssemblyInfo.cs
+C:\Users\jalali\source\repos\PROJECT\PROJECT\obj\Debug\netcoreapp2.1\PROJECT.dll
+C:\Users\jalali\source\repos\PROJECT\PROJECT\obj\Debug\netcoreapp2.1\PROJECT.pdb
