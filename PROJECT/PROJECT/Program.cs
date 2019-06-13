@@ -13,14 +13,7 @@ namespace PROJECT
         {
             for (; ; )
             {
-                Console.WriteLine("\n \n HINTS: \n For creating record:press 1 ");
-                Console.WriteLine("HINTS: Get marry : press 2 ");
-                Console.WriteLine("HINTS: child : press 3 ");
-                Console.WriteLine("HINTS: get devorced : press 4 ");
-                Console.WriteLine("HINTS: death : press 5 ");
-                Console.WriteLine("HINTS: Showing people`s information : press 6 ");
-                Console.WriteLine("HINTS: exit program : press 0 ");
-                Console.WriteLine("enter command::::");
+               
                 string press = Console.ReadLine();
                 if (press == "1")
                 {
